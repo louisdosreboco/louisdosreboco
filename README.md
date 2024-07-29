@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 
 
-Meu nome é luís
+Meu nome é Luís Catarino
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -12,5 +12,6 @@ luis.barreto@escola.pr.gov.br
 
 @eaeluisz
 
-![](https://tenor.com/pt-BR/view/evo-x-gif-23595654)
+![](https://media1.tenor.com/m/SCIqu4JbeGEAAAAd/evo-x.gif) 
+
 
